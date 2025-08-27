@@ -1,0 +1,4 @@
+scapy
+requests
+speedtest-cli
+tk
